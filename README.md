@@ -36,7 +36,7 @@ A full-stack data analytics and machine learning project to analyze and predict 
   - Average monthly Charges by churn
   - Number of Churned Customers by contract type
   - Senior citizen churn trends
-- SQL script included in: [`Churn Analysis.sql`](./sql/Churn%20Analysis.sql)
+- SQL script included in: [`Churn Analysis.sql`](Churn Analysis.sql)
 
 ### 2. Python Cleaning, EDA & ML
 - Connected Python to MySQL for analysis.

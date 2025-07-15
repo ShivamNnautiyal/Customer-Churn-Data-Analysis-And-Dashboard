@@ -42,10 +42,10 @@ A full-stack data analytics and machine learning project to analyze and predict 
 - Connected Python to MySQL for analysis.
 - Cleaned data: handled nulls, converted types, encoded categories.
 - Created visual EDA with heatmaps, boxplots, and distributions.
-- ![Churn Bar Chart](images/churn_distribution.png)
+- ![Churn Bar Chart](images/graph1.PNG)
   - ~74% of customers were retained
   - ~26% of customers churned
-- ![Monthly Charges Boxplot](images/monthly_charges_boxplot.png)
+- ![Monthly Charges Boxplot](images/graph2.PNG)
    -Customers who churned had noticeably **higher monthly charges** compared to those who stayed
   - Median monthly charges for churned customers were around ₹80+
   - Customers who did not churn had a much broader range of charges, including lower cost plans
@@ -54,7 +54,7 @@ A full-stack data analytics and machine learning project to analyze and predict 
   - Customers with **month-to-month contracts** and **fiber optic internet** are more likely to churn
   - Customers with **long tenure**, **tech support**, and **two-year contracts** are less likely to churn
   - Higher **monthly charges** and **paperless billing** are mildly correlated with higher churn
-  - ![Correlation Heatmap](images/correlation_heatmap.png)
+  - ![Correlation Heatmap](images/graph3.PNG)
 
 - Built **Logistic Regression** model with ROC AUC ≈ 0.85.
   -The logistic regression model showed strong performance:

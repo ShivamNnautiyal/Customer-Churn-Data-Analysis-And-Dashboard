@@ -64,7 +64,7 @@ SQL script included in: [`Churn Analysis.sql`](https://github.com/ShivamNnautiya
   - **Recall (Churn):** 53%
   - **F1-Score (Churn):** 0.58
   - While the model performed well in identifying non-churned customers, recall for churned customers can be improved using advanced models or balancing techniques.
-  ![Model Evaluation](images/logistic_evaluation.png)
+  ![Model Evaluation](https://github.com/ShivamNnautiyal/Customer-Churn-Data-Analysis-And-Dashboard/blob/main/graph%204.PNG)
 
 - Predicted churn probability for each customer.
 

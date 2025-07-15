@@ -42,7 +42,7 @@ A full-stack data analytics and machine learning project to analyze and predict 
 - Connected Python to MySQL for analysis.
 - Cleaned data: handled nulls, converted types, encoded categories.
 - Created visual EDA with heatmaps, boxplots, and distributions.
-- ![Churn Bar Chart](images/graph1.PNG)
+- ![Churn Bar Chart](https://github.com/ShivamNnautiyal/Customer-Churn-Data-Analysis-And-Dashboard/blob/main/graph1.PNG)
   - ~74% of customers were retained
   - ~26% of customers churned
 - ![Monthly Charges Boxplot](images/graph2.PNG)
